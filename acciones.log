@@ -1,0 +1,35 @@
+commit 1da1737115daaa6556651a422ac775a394cf65ff
+Author: Ereida30 <priba09@gmail.com>
+Date:   Fri Sep 8 19:54:04 2017 -0500
+
+     se agrego archivo a otra rama
+
+ archivorama.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit b740df66ad2bd5e7d35656d375e3083ad6321f53
+Author: Ereida30 <priba09@gmail.com>
+Date:   Fri Sep 8 19:51:20 2017 -0500
+
+     Se modifico el archivo1.md
+
+ archivo1.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 295d4b4fc5d56b0ee48c066646ec09241723a185
+Author: Ereida30 <priba09@gmail.com>
+Date:   Fri Sep 8 19:49:26 2017 -0500
+
+    Se agrego archivo1.md
+
+ archivo1.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit b553a92e5a248f4c9e5d2505c40ed4f50e4bcbdd
+Author: Ereida30 <priba09@gmail.com>
+Date:   Fri Sep 8 19:35:44 2017 -0500
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
