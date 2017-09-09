@@ -1,11 +1,23 @@
-commit 1da1737115daaa6556651a422ac775a394cf65ff
+commit 69d0dd9c3a2554f7eac67100ce5753806462f1eb
 Author: Ereida30 <priba09@gmail.com>
-Date:   Fri Sep 8 19:54:04 2017 -0500
+Date:   Fri Sep 8 20:17:11 2017 -0500
 
-     se agrego archivo a otra rama
+    Archivos cl1-4
 
- archivorama.md | 4 ++++
- 1 file changed, 4 insertions(+)
+ archivocl1.md | 7 +++++++
+ archivocl2.md | 3 +++
+ archivocl3.md | 3 +++
+ archivocl4.md | 1 +
+ 4 files changed, 14 insertions(+)
+
+commit 019f2cfdb93d29e71b2ce865dc69e3a0b62ed6c8
+Author: Ereida30 <priba09@gmail.com>
+Date:   Fri Sep 8 19:59:01 2017 -0500
+
+     Se agrego acciones.log
+
+ acciones.log | 35 +++++++++++++++++++++++++++++++++++
+ 1 file changed, 35 insertions(+)
 
 commit b740df66ad2bd5e7d35656d375e3083ad6321f53
 Author: Ereida30 <priba09@gmail.com>
